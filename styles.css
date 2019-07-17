@@ -1,0 +1,12 @@
+@media () {
+}
+@media screen () {
+}
+@media screen and (min-width: 480px) {
+}
+@media screen and (min-width: 480px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
